@@ -40,11 +40,12 @@ Built to practice:
 
 ![preview](./preview.png)
 
-## 🚀 Getting Started
-
-
 ## 🎓 Learning Source
 This project was built while following a course on Udemy as part of a training to practice handling cookies in JavaScript.
+
+## 🚀 Live site
+
+- Live site -[GradientGenerator](https://grandient-generator.vercel.app/)
 
 ## 👨‍💻 Author
 
